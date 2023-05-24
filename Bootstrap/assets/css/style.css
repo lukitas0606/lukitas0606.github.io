@@ -1,0 +1,44 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+i{
+    color: #707070;
+    display: inline-block;
+    margin-right: 5px;
+}
+.card-text{
+    color:#707070;
+}
+.card-body{
+    font-weight: 300 !important;
+    color: #707070;
+}
+h5{
+    color:#212529 !important;
+    font-weight: 300;
+}
+.form-label{
+    font-weight: 500;
+    font-size: 22px;
+}
+small{
+    font-weight: 300;
+    font-size: 15px;
+}
+.card-footer{
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    align-items: center;
+}
+h4{
+    color:#28A745;
+    font-weight: 500;
+}
+p{
+    margin-bottom: 0;
+}
+footer{
+    color: #707070;
+    font-weight: 300;
+}
